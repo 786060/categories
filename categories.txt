@@ -1,0 +1,1112 @@
+INSERT INTO `categories`.`categories`
+(`active_or_inactive`,
+`category_name`,
+`cat_description`
+)
+VALUES
+(1,'Agriculture','Agriculter Products & Types');
+
+
+INSERT INTO `categories`.`categories`
+(`active_or_inactive`,
+`category_name`,
+`cat_description`
+)
+VALUES
+(1,'Apparel','Apparel Types');
+
+INSERT INTO `categories`.`categories`
+(`active_or_inactive`,
+`category_name`,
+`cat_description`
+)
+VALUES
+(1,'Beauty','Beauty Products Type');
+
+INSERT INTO `categories`.`categories`
+(`active_or_inactive`,
+`category_name`,
+`cat_description`
+)
+VALUES
+(1,'Business Services','TYpes Of Business Services');
+
+INSERT INTO `categories`.`categories`
+(`active_or_inactive`,
+`category_name`,
+`cat_description`
+)
+VALUES
+(1,'Chemicals','Chemicals varities');
+
+INSERT INTO `categories`.`categories`
+(`active_or_inactive`,
+`category_name`,
+`cat_description`
+)
+VALUES
+(1,'Commercial Service Equipment','Various Commercial Service Equipment');
+
+INSERT INTO `categories`.`categories`
+(`active_or_inactive`,
+`category_name`,
+`cat_description`
+)
+VALUES
+(1,'Construction & Building Machinery','Machinery Of Construction');
+
+INSERT INTO `categories`.`categories`
+(`active_or_inactive`,
+`category_name`,
+`cat_description`
+)
+VALUES
+(1,'Construction & Real Estate','Construction Products Types');
+
+INSERT INTO `categories`.`categories`
+(`active_or_inactive`,
+`category_name`,
+`cat_description`
+)
+VALUES
+(1,'Consumer Electronics','Types Of Consumer Electronics');
+
+INSERT INTO `categories`.`categories`
+(`active_or_inactive`,
+`category_name`,
+`cat_description`
+)
+VALUES
+(1,'Electrical Equipment & Supplies','Types Of Electrical Equipment & Supplies');
+
+INSERT INTO `categories`.`categories`
+(`active_or_inactive`,
+`category_name`,
+`cat_description`
+)
+VALUES
+(1,'Electronic Components, Accessories & Telecommunications','Types Of Electronic Components, Accessories & Telecommunications');
+
+INSERT INTO `categories`.`categories`
+(`active_or_inactive`,
+`category_name`,
+`cat_description`
+)
+VALUES
+(1,'Environment','Various Environmental Products');
+
+INSERT INTO `categories`.`categories`
+(`active_or_inactive`,
+`category_name`,
+`cat_description`
+)
+VALUES
+(1,'Fabric & Textile Raw Material','Raw Material Of Fabric & Textile');
+
+INSERT INTO `categories`.`categories`
+(`active_or_inactive`,
+`category_name`,
+`cat_description`
+)
+VALUES
+(1,'Fabrication Services','Various Fabrication Services');
+
+INSERT INTO `categories`.`categories`
+(`active_or_inactive`,
+`category_name`,
+`cat_description`
+)
+VALUES
+(1,'Fashion Accessories','Varities of Fashion Accessories');
+
+INSERT INTO `categories`.`categories`
+(`active_or_inactive`,
+`category_name`,
+`cat_description`
+)
+VALUES
+(1,'Food & Beverage','Various Food & Beverage Types');
+
+INSERT INTO `categories`.`categories`
+(`active_or_inactive`,
+`category_name`,
+`cat_description`
+)
+VALUES
+(1,'Furniture','Types Of Furniture');
+
+INSERT INTO `categories`.`categories`
+(`active_or_inactive`,
+`category_name`,
+`cat_description`
+)
+VALUES
+(1,'Gifts & Crafts','Types Of Gifts & Crafts');
+
+INSERT INTO `categories`.`categories`
+(`active_or_inactive`,
+`category_name`,
+`cat_description`
+)
+VALUES
+(1,'Health Care','Health Care Products');
+
+INSERT INTO `categories`.`categories`
+(`active_or_inactive`,
+`category_name`,
+`cat_description`
+)
+VALUES
+(1,'Home & Garden','Home & Garden products');
+
+INSERT INTO `categories`.`categories`
+(`active_or_inactive`,
+`category_name`,
+`cat_description`
+)
+VALUES
+(1,'Home Appliances','Varities Of Home Appliances');
+
+INSERT INTO `categories`.`categories`
+(`active_or_inactive`,
+`category_name`,
+`cat_description`
+)
+VALUES
+(1,'Industrial Machinery','Machinery of Industries');
+
+INSERT INTO `categories`.`categories`
+(`active_or_inactive`,
+`category_name`,
+`cat_description`
+)
+VALUES
+(1,'Lights & Lighting','Types Of Lights & Lighting');
+
+INSERT INTO `categories`.`categories`
+(`active_or_inactive`,
+`category_name`,
+`cat_description`
+)
+VALUES
+(1,'Luggage, Bags & Cases','Types Of Luggage, Bags & Cases');
+
+INSERT INTO `categories`.`categories`
+(`active_or_inactive`,
+`category_name`,
+`cat_description`
+)
+VALUES
+(1,'Material Handling','Material Handling Equipments');
+
+INSERT INTO `categories`.`categories`
+(`active_or_inactive`,
+`category_name`,
+`cat_description`
+)
+VALUES
+(1,'Medical devices & Supplies','Varities Of Medical devices & Supplies');
+
+INSERT INTO `categories`.`categories`
+(`active_or_inactive`,
+`category_name`,
+`cat_description`
+)
+VALUES
+(1,'Metals & Alloys','Metals & Alloys Types');
+
+INSERT INTO `categories`.`categories`
+(`active_or_inactive`,
+`category_name`,
+`cat_description`
+)
+VALUES
+(1,'Packaging & Printing','Types Of Packaging & Printing');
+
+INSERT INTO `categories`.`categories`
+(`active_or_inactive`,
+`category_name`,
+`cat_description`
+)
+VALUES
+(1,'Personal Care & Household Cleaning','various Personal Care  & Household Cleaning');
+
+INSERT INTO `categories`.`categories`
+(`active_or_inactive`,
+`category_name`,
+`cat_description`
+)
+VALUES
+(1,'Pet Supplies','Types Of Pet Food & products');
+INSERT INTO `categories`.`categories`
+(`active_or_inactive`,
+`category_name`,
+`cat_description`
+)
+VALUES
+(1,'Power Transmission','Power Transmission Products');
+
+INSERT INTO `categories`.`categories`
+(`active_or_inactive`,
+`category_name`,
+`cat_description`
+)
+VALUES
+(1,'Renewable Energy','TYpes Of Renewable Energy');
+
+INSERT INTO `categories`.`categories`
+(`active_or_inactive`,
+`category_name`,
+`cat_description`
+)
+VALUES
+(1,'Rubber & Plastics','Rubber & Plastics Types');
+
+INSERT INTO `categories`.`categories`
+(`active_or_inactive`,
+`category_name`,
+`cat_description`
+)
+VALUES
+(1,'Safety','Various Safety Products');
+
+INSERT INTO `categories`.`categories`
+(`active_or_inactive`,
+`category_name`,
+`cat_description`
+)
+VALUES
+(1,'School & Office Supplies','Various School & Office Supplies');
+
+INSERT INTO `categories`.`categories`
+(`active_or_inactive`,
+`category_name`,
+`cat_description`
+)
+VALUES
+(1,'Security','Types Of Security');
+
+INSERT INTO `categories`.`categories`
+(`active_or_inactive`,
+`category_name`,
+`cat_description`
+)
+VALUES
+(1,'Shoes & Accessories','Varities Of Shoes & Accessories');
+
+INSERT INTO `categories`.`categories`
+(`active_or_inactive`,
+`category_name`,
+`cat_description`
+)
+VALUES
+(1,'Sports & Entertainment','products Of Sports & Entertainment');
+
+INSERT INTO `categories`.`categories`
+(`active_or_inactive`,
+`category_name`,
+`cat_description`
+)
+VALUES
+(1,'Testing Instrument & Equipment','Instrument & Equipment Of Testing');
+
+INSERT INTO `categories`.`categories`
+(`active_or_inactive`,
+`category_name`,
+`cat_description`
+)
+VALUES
+(1,'Timepieces, Jewelry & Eyewear','Jewelry & Eyewear Types');
+
+INSERT INTO `categories`.`categories`
+(`active_or_inactive`,
+`category_name`,
+`cat_description`
+)
+VALUES
+(1,'Tools & Hardware','Tools & Hardware Types');
+
+INSERT INTO `categories`.`categories`
+(`active_or_inactive`,
+`category_name`,
+`cat_description`
+)
+VALUES
+(1,'Toys & Hobbies','Varities of Kids Toys');
+
+INSERT INTO `categories`.`categories`
+(`active_or_inactive`,
+`category_name`,
+`cat_description`
+)
+VALUES
+(1,'Vehicle Electornics Accessories & Tools','Electornics Accessories & Tools Of Vehicle');
+
+INSERT INTO `categories`.`categories`
+(`active_or_inactive`,
+`category_name`,
+`cat_description`
+)
+VALUES
+(1,'Vehicle Parts & Accessories','Various Vehicle Parts & Accessories');
+
+INSERT INTO `categories`.`categories`
+(`active_or_inactive`,
+`category_name`,
+`cat_description`
+)
+VALUES
+(1,'Vehicles & Transportation','Transportation Vehicle Types');
+
+INSERT INTO `categories`.`categories`
+(`active_or_inactive`,
+`category_name`,
+`cat_description`
+)
+VALUES
+(1,'Wood, Plywood, Veneer & Laminates','Types Of Wood & Wood, Plywood, Veneer & Laminates');
+
+
+
+
+
+
+
+
+
+
+INSERT INTO `categories`.`categories`
+(`active_or_inactive`,
+`category_name`,
+`cat_description`
+)
+VALUES
+(1,'Apparel','Apparel Types');
+
+INSERT INTO `categories`.`categories`
+(`active_or_inactive`,
+`category_name`,
+`cat_description`
+)
+VALUES
+(1,'Beauty','Beauty Products Type');
+
+INSERT INTO `categories`.`categories`
+(`active_or_inactive`,
+`category_name`,
+`cat_description`
+)
+VALUES
+(1,'Business Services','TYpes Of Business Services');
+
+INSERT INTO `categories`.`categories`
+(`active_or_inactive`,
+`category_name`,
+`cat_description`
+)
+VALUES
+(1,'Chemicals','Chemicals varities');
+
+INSERT INTO `categories`.`categories`
+(`active_or_inactive`,
+`category_name`,
+`cat_description`
+)
+VALUES
+(1,'Commercial Service Equipment','Various Commercial Service Equipment');
+
+INSERT INTO `categories`.`categories`
+(`active_or_inactive`,
+`category_name`,
+`cat_description`
+)
+VALUES
+(1,'Construction & Building Machinery','Machinery Of Construction');
+
+INSERT INTO `categories`.`categories`
+(`active_or_inactive`,
+`category_name`,
+`cat_description`
+)
+VALUES
+(1,'Construction & Real Estate','Construction Products Types');
+
+INSERT INTO `categories`.`categories`
+(`active_or_inactive`,
+`category_name`,
+`cat_description`
+)
+VALUES
+(1,'Consumer Electronics','Types Of Consumer Electronics');
+
+INSERT INTO `categories`.`categories`
+(`active_or_inactive`,
+`category_name`,
+`cat_description`
+)
+VALUES
+(1,'Electrical Equipment & Supplies','Types Of Electrical Equipment & Supplies');
+
+INSERT INTO `categories`.`categories`
+(`active_or_inactive`,
+`category_name`,
+`cat_description`
+)
+VALUES
+(1,'Electronic Components, Accessories & Telecommunications','Types Of Electronic Components, Accessories & Telecommunications');
+
+INSERT INTO `categories`.`categories`
+(`active_or_inactive`,
+`category_name`,
+`cat_description`
+)
+VALUES
+(1,'Environment','Various Environmental Products');
+
+INSERT INTO `categories`.`categories`
+(`active_or_inactive`,
+`category_name`,
+`cat_description`
+)
+VALUES
+(1,'Fabric & Textile Raw Material','Raw Material Of Fabric & Textile');
+
+INSERT INTO `categories`.`categories`
+(`active_or_inactive`,
+`category_name`,
+`cat_description`
+)
+VALUES
+(1,'Fabrication Services','Various Fabrication Services');
+
+INSERT INTO `categories`.`categories`
+(`active_or_inactive`,
+`category_name`,
+`cat_description`
+)
+VALUES
+(1,'Fashion Accessories','Varities of Fashion Accessories');
+
+INSERT INTO `categories`.`categories`
+(`active_or_inactive`,
+`category_name`,
+`cat_description`
+)
+VALUES
+(1,'Food & Beverage','Various Food & Beverage Types');
+
+INSERT INTO `categories`.`categories`
+(`active_or_inactive`,
+`category_name`,
+`cat_description`
+)
+VALUES
+(1,'Furniture','Types Of Furniture');
+
+INSERT INTO `categories`.`categories`
+(`active_or_inactive`,
+`category_name`,
+`cat_description`
+)
+VALUES
+(1,'Gifts & Crafts','Types Of Gifts & Crafts');
+
+INSERT INTO `categories`.`categories`
+(`active_or_inactive`,
+`category_name`,
+`cat_description`
+)
+VALUES
+(1,'Health Care','Health Care Products');
+
+INSERT INTO `categories`.`categories`
+(`active_or_inactive`,
+`category_name`,
+`cat_description`
+)
+VALUES
+(1,'Home & Garden','Home & Garden products');
+
+INSERT INTO `categories`.`categories`
+(`active_or_inactive`,
+`category_name`,
+`cat_description`
+)
+VALUES
+(1,'Home Appliances','Varities Of Home Appliances');
+
+INSERT INTO `categories`.`categories`
+(`active_or_inactive`,
+`category_name`,
+`cat_description`
+)
+VALUES
+(1,'Industrial Machinery','Machinery of Industries');
+
+INSERT INTO `categories`.`categories`
+(`active_or_inactive`,
+`category_name`,
+`cat_description`
+)
+VALUES
+(1,'Lights & Lighting','Types Of Lights & Lighting');
+
+INSERT INTO `categories`.`categories`
+(`active_or_inactive`,
+`category_name`,
+`cat_description`
+)
+VALUES
+(1,'Luggage, Bags & Cases','Types Of Luggage, Bags & Cases');
+
+INSERT INTO `categories`.`categories`
+(`active_or_inactive`,
+`category_name`,
+`cat_description`
+)
+VALUES
+(1,'Material Handling','Material Handling Equipments');
+
+INSERT INTO `categories`.`categories`
+(`active_or_inactive`,
+`category_name`,
+`cat_description`
+)
+VALUES
+(1,'Medical devices & Supplies','Varities Of Medical devices & Supplies');
+
+INSERT INTO `categories`.`categories`
+(`active_or_inactive`,
+`category_name`,
+`cat_description`
+)
+VALUES
+(1,'Metals & Alloys','Metals & Alloys Types');
+
+INSERT INTO `categories`.`categories`
+(`active_or_inactive`,
+`category_name`,
+`cat_description`
+)
+VALUES
+(1,'Packaging & Printing','Types Of Packaging & Printing');
+
+INSERT INTO `categories`.`categories`
+(`active_or_inactive`,
+`category_name`,
+`cat_description`
+)
+VALUES
+(1,'Personal Care & Household Cleaning','various Personal Care  & Household Cleaning');
+
+INSERT INTO `categories`.`categories`
+(`active_or_inactive`,
+`category_name`,
+`cat_description`
+)
+VALUES
+(1,'Pet Supplies','Types Of Pet Food & products');
+INSERT INTO `categories`.`categories`
+(`active_or_inactive`,
+`category_name`,
+`cat_description`
+)
+VALUES
+(1,'Power Transmission','Power Transmission Products');
+
+INSERT INTO `categories`.`categories`
+(`active_or_inactive`,
+`category_name`,
+`cat_description`
+)
+VALUES
+(1,'Renewable Energy','TYpes Of Renewable Energy');
+
+INSERT INTO `categories`.`categories`
+(`active_or_inactive`,
+`category_name`,
+`cat_description`
+)
+VALUES
+(1,'Rubber & Plastics','Rubber & Plastics Types');
+
+INSERT INTO `categories`.`categories`
+(`active_or_inactive`,
+`category_name`,
+`cat_description`
+)
+VALUES
+(1,'Safety','Various Safety Products');
+
+INSERT INTO `categories`.`categories`
+(`active_or_inactive`,
+`category_name`,
+`cat_description`
+)
+VALUES
+(1,'School & Office Supplies','Various School & Office Supplies');
+
+INSERT INTO `categories`.`categories`
+(`active_or_inactive`,
+`category_name`,
+`cat_description`
+)
+VALUES
+(1,'Security','Types Of Security');
+
+INSERT INTO `categories`.`categories`
+(`active_or_inactive`,
+`category_name`,
+`cat_description`
+)
+VALUES
+(1,'Shoes & Accessories','Varities Of Shoes & Accessories');
+
+INSERT INTO `categories`.`categories`
+(`active_or_inactive`,
+`category_name`,
+`cat_description`
+)
+VALUES
+(1,'Sports & Entertainment','products Of Sports & Entertainment');
+
+INSERT INTO `categories`.`categories`
+(`active_or_inactive`,
+`category_name`,
+`cat_description`
+)
+VALUES
+(1,'Testing Instrument & Equipment','Instrument & Equipment Of Testing');
+
+INSERT INTO `categories`.`categories`
+(`active_or_inactive`,
+`category_name`,
+`cat_description`
+)
+VALUES
+(1,'Timepieces, Jewelry & Eyewear','Jewelry & Eyewear Types');
+
+INSERT INTO `categories`.`categories`
+(`active_or_inactive`,
+`category_name`,
+`cat_description`
+)
+VALUES
+(1,'Tools & Hardware','Tools & Hardware Types');
+
+INSERT INTO `categories`.`categories`
+(`active_or_inactive`,
+`category_name`,
+`cat_description`
+)
+VALUES
+(1,'Toys & Hobbies','Varities of Kids Toys');
+
+INSERT INTO `categories`.`categories`
+(`active_or_inactive`,
+`category_name`,
+`cat_description`
+)
+VALUES
+(1,'Vehicle Electornics Accessories & Tools','Electornics Accessories & Tools Of Vehicle');
+
+INSERT INTO `categories`.`categories`
+(`active_or_inactive`,
+`category_name`,
+`cat_description`
+)
+VALUES
+(1,'Vehicle Parts & Accessories','Various Vehicle Parts & Accessories');
+
+INSERT INTO `categories`.`categories`
+(`active_or_inactive`,
+`category_name`,
+`cat_description`
+)
+VALUES
+(1,'Vehicles & Transportation','Transportation Vehicle Types');
+
+INSERT INTO `categories`.`categories`
+(`active_or_inactive`,
+`category_name`,
+`cat_description`
+)
+VALUES
+(1,'Wood, Plywood, Veneer & Laminates','Types Of Wood & Wood, Plywood, Veneer & Laminates');
+
+
+
+
+
+
+
+
+
+
+INSERT INTO `categories`.`categories`
+(`active_or_inactive`,
+`category_name`,
+`cat_description`
+)
+VALUES
+(1,'Apparel','Apparel Types');
+
+INSERT INTO `categories`.`categories`
+(`active_or_inactive`,
+`category_name`,
+`cat_description`
+)
+VALUES
+(1,'Beauty','Beauty Products Type');
+
+INSERT INTO `categories`.`categories`
+(`active_or_inactive`,
+`category_name`,
+`cat_description`
+)
+VALUES
+(1,'Business Services','TYpes Of Business Services');
+
+INSERT INTO `categories`.`categories`
+(`active_or_inactive`,
+`category_name`,
+`cat_description`
+)
+VALUES
+(1,'Chemicals','Chemicals varities');
+
+INSERT INTO `categories`.`categories`
+(`active_or_inactive`,
+`category_name`,
+`cat_description`
+)
+VALUES
+(1,'Commercial Service Equipment','Various Commercial Service Equipment');
+
+INSERT INTO `categories`.`categories`
+(`active_or_inactive`,
+`category_name`,
+`cat_description`
+)
+VALUES
+(1,'Construction & Building Machinery','Machinery Of Construction');
+
+INSERT INTO `categories`.`categories`
+(`active_or_inactive`,
+`category_name`,
+`cat_description`
+)
+VALUES
+(1,'Construction & Real Estate','Construction Products Types');
+
+INSERT INTO `categories`.`categories`
+(`active_or_inactive`,
+`category_name`,
+`cat_description`
+)
+VALUES
+(1,'Consumer Electronics','Types Of Consumer Electronics');
+
+INSERT INTO `categories`.`categories`
+(`active_or_inactive`,
+`category_name`,
+`cat_description`
+)
+VALUES
+(1,'Electrical Equipment & Supplies','Types Of Electrical Equipment & Supplies');
+
+INSERT INTO `categories`.`categories`
+(`active_or_inactive`,
+`category_name`,
+`cat_description`
+)
+VALUES
+(1,'Electronic Components, Accessories & Telecommunications','Types Of Electronic Components, Accessories & Telecommunications');
+
+INSERT INTO `categories`.`categories`
+(`active_or_inactive`,
+`category_name`,
+`cat_description`
+)
+VALUES
+(1,'Environment','Various Environmental Products');
+
+INSERT INTO `categories`.`categories`
+(`active_or_inactive`,
+`category_name`,
+`cat_description`
+)
+VALUES
+(1,'Fabric & Textile Raw Material','Raw Material Of Fabric & Textile');
+
+INSERT INTO `categories`.`categories`
+(`active_or_inactive`,
+`category_name`,
+`cat_description`
+)
+VALUES
+(1,'Fabrication Services','Various Fabrication Services');
+
+INSERT INTO `categories`.`categories`
+(`active_or_inactive`,
+`category_name`,
+`cat_description`
+)
+VALUES
+(1,'Fashion Accessories','Varities of Fashion Accessories');
+
+INSERT INTO `categories`.`categories`
+(`active_or_inactive`,
+`category_name`,
+`cat_description`
+)
+VALUES
+(1,'Food & Beverage','Various Food & Beverage Types');
+
+INSERT INTO `categories`.`categories`
+(`active_or_inactive`,
+`category_name`,
+`cat_description`
+)
+VALUES
+(1,'Furniture','Types Of Furniture');
+
+INSERT INTO `categories`.`categories`
+(`active_or_inactive`,
+`category_name`,
+`cat_description`
+)
+VALUES
+(1,'Gifts & Crafts','Types Of Gifts & Crafts');
+
+INSERT INTO `categories`.`categories`
+(`active_or_inactive`,
+`category_name`,
+`cat_description`
+)
+VALUES
+(1,'Health Care','Health Care Products');
+
+INSERT INTO `categories`.`categories`
+(`active_or_inactive`,
+`category_name`,
+`cat_description`
+)
+VALUES
+(1,'Home & Garden','Home & Garden products');
+
+INSERT INTO `categories`.`categories`
+(`active_or_inactive`,
+`category_name`,
+`cat_description`
+)
+VALUES
+(1,'Home Appliances','Varities Of Home Appliances');
+
+INSERT INTO `categories`.`categories`
+(`active_or_inactive`,
+`category_name`,
+`cat_description`
+)
+VALUES
+(1,'Industrial Machinery','Machinery of Industries');
+
+INSERT INTO `categories`.`categories`
+(`active_or_inactive`,
+`category_name`,
+`cat_description`
+)
+VALUES
+(1,'Lights & Lighting','Types Of Lights & Lighting');
+
+INSERT INTO `categories`.`categories`
+(`active_or_inactive`,
+`category_name`,
+`cat_description`
+)
+VALUES
+(1,'Luggage, Bags & Cases','Types Of Luggage, Bags & Cases');
+
+INSERT INTO `categories`.`categories`
+(`active_or_inactive`,
+`category_name`,
+`cat_description`
+)
+VALUES
+(1,'Material Handling','Material Handling Equipments');
+
+INSERT INTO `categories`.`categories`
+(`active_or_inactive`,
+`category_name`,
+`cat_description`
+)
+VALUES
+(1,'Medical devices & Supplies','Varities Of Medical devices & Supplies');
+
+INSERT INTO `categories`.`categories`
+(`active_or_inactive`,
+`category_name`,
+`cat_description`
+)
+VALUES
+(1,'Metals & Alloys','Metals & Alloys Types');
+
+INSERT INTO `categories`.`categories`
+(`active_or_inactive`,
+`category_name`,
+`cat_description`
+)
+VALUES
+(1,'Packaging & Printing','Types Of Packaging & Printing');
+
+INSERT INTO `categories`.`categories`
+(`active_or_inactive`,
+`category_name`,
+`cat_description`
+)
+VALUES
+(1,'Personal Care & Household Cleaning','various Personal Care  & Household Cleaning');
+
+INSERT INTO `categories`.`categories`
+(`active_or_inactive`,
+`category_name`,
+`cat_description`
+)
+VALUES
+(1,'Pet Supplies','Types Of Pet Food & products');
+INSERT INTO `categories`.`categories`
+(`active_or_inactive`,
+`category_name`,
+`cat_description`
+)
+VALUES
+(1,'Power Transmission','Power Transmission Products');
+
+INSERT INTO `categories`.`categories`
+(`active_or_inactive`,
+`category_name`,
+`cat_description`
+)
+VALUES
+(1,'Renewable Energy','TYpes Of Renewable Energy');
+
+INSERT INTO `categories`.`categories`
+(`active_or_inactive`,
+`category_name`,
+`cat_description`
+)
+VALUES
+(1,'Rubber & Plastics','Rubber & Plastics Types');
+
+INSERT INTO `categories`.`categories`
+(`active_or_inactive`,
+`category_name`,
+`cat_description`
+)
+VALUES
+(1,'Safety','Various Safety Products');
+
+INSERT INTO `categories`.`categories`
+(`active_or_inactive`,
+`category_name`,
+`cat_description`
+)
+VALUES
+(1,'School & Office Supplies','Various School & Office Supplies');
+
+INSERT INTO `categories`.`categories`
+(`active_or_inactive`,
+`category_name`,
+`cat_description`
+)
+VALUES
+(1,'Security','Types Of Security');
+
+INSERT INTO `categories`.`categories`
+(`active_or_inactive`,
+`category_name`,
+`cat_description`
+)
+VALUES
+(1,'Shoes & Accessories','Varities Of Shoes & Accessories');
+
+INSERT INTO `categories`.`categories`
+(`active_or_inactive`,
+`category_name`,
+`cat_description`
+)
+VALUES
+(1,'Sports & Entertainment','products Of Sports & Entertainment');
+
+INSERT INTO `categories`.`categories`
+(`active_or_inactive`,
+`category_name`,
+`cat_description`
+)
+VALUES
+(1,'Testing Instrument & Equipment','Instrument & Equipment Of Testing');
+
+INSERT INTO `categories`.`categories`
+(`active_or_inactive`,
+`category_name`,
+`cat_description`
+)
+VALUES
+(1,'Timepieces, Jewelry & Eyewear','Jewelry & Eyewear Types');
+
+INSERT INTO `categories`.`categories`
+(`active_or_inactive`,
+`category_name`,
+`cat_description`
+)
+VALUES
+(1,'Tools & Hardware','Tools & Hardware Types');
+
+INSERT INTO `categories`.`categories`
+(`active_or_inactive`,
+`category_name`,
+`cat_description`
+)
+VALUES
+(1,'Toys & Hobbies','Varities of Kids Toys');
+
+INSERT INTO `categories`.`categories`
+(`active_or_inactive`,
+`category_name`,
+`cat_description`
+)
+VALUES
+(1,'Vehicle Electornics Accessories & Tools','Electornics Accessories & Tools Of Vehicle');
+
+INSERT INTO `categories`.`categories`
+(`active_or_inactive`,
+`category_name`,
+`cat_description`
+)
+VALUES
+(1,'Vehicle Parts & Accessories','Various Vehicle Parts & Accessories');
+
+INSERT INTO `categories`.`categories`
+(`active_or_inactive`,
+`category_name`,
+`cat_description`
+)
+VALUES
+(1,'Vehicles & Transportation','Transportation Vehicle Types');
+
+INSERT INTO `categories`.`categories`
+(`active_or_inactive`,
+`category_name`,
+`cat_description`
+)
+VALUES
+(1,'Wood, Plywood, Veneer & Laminates','Types Of Wood & Wood, Plywood, Veneer & Laminates');
+
+
+
+
+
+
+
+
+
